@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>For My Baby ❤️</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+
+<body style="font-family:Arial; background:pink; text-align:center; padding:20px;">
+
+  <div style="background:white; padding:20px; border-radius:20px;">
+    <h2>Hii meri babyyyy 😘</h2>
+    <p>You are the most beautiful girl in the world 💖</p>
+  </div>
+
+  <br>
+
+  <div style="background:white; padding:20px; border-radius:20px;">
+    <h3>My Favourite Pictures 📸</h3>
+    <p>These are my most favourite pictures — obviously you are gorgeous 😍✨</p>
+
+    <img src="photo1.jpg" width="90%"><br><br>
+    <img src="photo2.jpg" width="90%"><br><br>
+    <img src="photo3.jpg" width="90%"><br><br>
+    <img src="photo4.jpg" width="90%"><br><br>
+    <img src="photo5.jpg" width="90%"><br><br>
+    <img src="photo6.jpg" width="90%"><br><br>
+  </div>
+
+  <br>
+
+  <div style="background:white; padding:20px; border-radius:20px;">
+    <h2>Bye babyyyy 👋</h2>
+    <p>
+      I LOVE YOU SOOOOOOOO MUCHHHHHHHHH  
+      😚😘😚😘😚😘😚😘😚😘😚😘😚😘😚😘😚😘😚😘😚😘😚😘😚😘😚😘😚😘😚😘😚😘
+    </p>
+  </div>
+
+</body>
+</html>
